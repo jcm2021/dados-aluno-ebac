@@ -7,7 +7,8 @@ Dados do aluno
 -Profissão:
 -Cidade:
 -Estado:
--O que faz nas horas vaga:
+-O que você espera da sua carreira
+-Como podemos te ajudar a alcançar o que deseja?
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
